@@ -1,6 +1,6 @@
 ---
 name: Softwarefehler
-about: Melden Sie einen Softwarefehler
+about: Melden Sie einen Softwarefehler.
 title: "[Fehler]"
 labels: bug
 assignees: ''
